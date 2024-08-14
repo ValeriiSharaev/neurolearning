@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "1-finger"
+    },
+    {
+      "id": 1,
+      "name": "2-fingers"
+    },
+    {
+      "id": 2,
+      "name": "3-fingers"
+    },
+    {
+      "id": 3,
+      "name": "4-fingers"
+    },
+    {
+      "id": 4,
+      "name": "5-fingers"
+    }
+  ],
+  "info": {
+    "year": 2024,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
